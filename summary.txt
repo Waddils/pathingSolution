@@ -1,0 +1,36 @@
+Exampleplot.png Results:
+
+bfs1:
+Path cost: 83.0
+Nodes expanded: 2002
+
+dfs1:
+Path cost: 1008.5
+Nodes expanded: 2216
+
+gbfs1:
+Path cost: 86.0
+Nodes expanded: 99
+
+astar1:
+Path cost: 83.0
+Nodes expanded: 1595
+
+#######################################################
+myGrid.png Results:
+
+bfs1:
+Path cost: 70.5
+Nodes expanded: 2171
+
+dfs1:
+Path cost: 1997.0
+Nodes expanded: 4686
+
+gbfs1:
+Path cost: 73.0
+Nodes expanded: 73.0
+
+astar1:
+Path cost: 70.5
+Nodes expanded: 1548
